@@ -117,17 +117,14 @@ if __name__ == '__main__':
 
     # 自主添加公众号类型以及url即可
     
-    url_notification = ["http://www.gsdata.cn/index.php/rank/single/454650", "http://www.gsdata.cn/index.php/rank/single/715687", "http://www.gsdata.cn/index.php/rank/single/715701", "http://www.gsdata.cn/index.php/rank/single/715699"]
-    # 中传教务，中国传媒大学学生综合服务大厅，中国传媒大学白杨网,中国传媒大学学生资助中心,中国传媒大学就业指导中心
+    url_notification = ["http://www.gsdata.cn/index.php/rank/single/xxxxxx"]
 
-    url_news = ["http://wwwv.gsdata.cn/index.php/rank/single/119570", "http://www.gsdata.cn/index.php/rank/single/1164350", "http://www.gsdata.cn/index.php/rank/single/38221", "http://www.gsdata.cn/index.php/rank/single/715688"]
-    # 传媒团英，中传新闻，广院学实,中国传媒大学活动讲座公示
+    url_news = ["http://www.gsdata.cn/index.php/rank/single/xxxxxx"]
 
-    url_association = ["http://www.gsdata.cn/index.php/rank/single/115494", "http://www.gsdata.cn/index.php/rank/single/845852"]
-    # 中国传媒大学社团联合会，广院小绿
+    url_association = ["http://www.gsdata.cn/index.php/rank/single/xxxxxx"]
 
-    url_class = ["http://www.gsdata.cn/index.php/rank/single/616868"]
-    # 一世媒调
+    url_class = ["http://www.gsdata.cn/index.php/rank/single/xxxxxx"]
+  
 
     # 创建一个表
     createTable()
